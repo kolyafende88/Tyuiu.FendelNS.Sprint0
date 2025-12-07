@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{0A051BCF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FendelNS.Task0.V0", "Tyuiu.FendelNS.Task0.V0\Tyuiu.FendelNS.Task0.V0.csproj", "{58D3DC37-BE01-4BAB-A223-9FCB9CB6D9FB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{3694F4AC-4725-4CB2-B35D-A44704304E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FendelNS.Sprint0.Task1.V0", "Tyuiu.FendelNS.Sprint0.Task1.V0\Tyuiu.FendelNS.Sprint0.Task1.V0.csproj", "{5F88CBD0-2398-47D6-AA11-7B44418B13EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{58D3DC37-BE01-4BAB-A223-9FCB9CB6D9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58D3DC37-BE01-4BAB-A223-9FCB9CB6D9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58D3DC37-BE01-4BAB-A223-9FCB9CB6D9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F88CBD0-2398-47D6-AA11-7B44418B13EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F88CBD0-2398-47D6-AA11-7B44418B13EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F88CBD0-2398-47D6-AA11-7B44418B13EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F88CBD0-2398-47D6-AA11-7B44418B13EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{58D3DC37-BE01-4BAB-A223-9FCB9CB6D9FB} = {0A051BCF-6ECB-49D2-B661-9841602913C2}
+		{5F88CBD0-2398-47D6-AA11-7B44418B13EA} = {3694F4AC-4725-4CB2-B35D-A44704304E91}
 	EndGlobalSection
 EndGlobal
